@@ -1,6 +1,8 @@
 # gulp_starter
 Starter configuration for html project
 
+Run `gulp` to start the project.
+
 Команда для установки всех пакетов:
 npm i gulp gulp-sass sass gulp-file-include gulp-clean gulp-server-livereload gulp-sourcemaps gulp-plumber gulp-notify gulp-group-css-media-queries --save-dev
 
